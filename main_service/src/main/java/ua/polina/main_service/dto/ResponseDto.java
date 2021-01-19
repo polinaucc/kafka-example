@@ -1,4 +1,4 @@
-package ua.polina.main_service;
+package ua.polina.main_service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

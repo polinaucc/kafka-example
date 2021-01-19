@@ -1,7 +1,8 @@
 HELP.md
 /.idea/
 /target/
-/.mvn
+/.mvn/
 *.iml
 mvnw
-/mvnw.cmd
+mvnw.cmd
+/щге

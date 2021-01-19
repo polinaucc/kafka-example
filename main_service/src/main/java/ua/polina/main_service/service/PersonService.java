@@ -4,8 +4,8 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
-import ua.polina.main_service.PersonDto;
-import ua.polina.main_service.ResponseDto;
+import ua.polina.main_service.dto.PersonDto;
+import ua.polina.main_service.dto.ResponseDto;
 import ua.polina.person.api.messaging.CreateCommand;
 
 @Service

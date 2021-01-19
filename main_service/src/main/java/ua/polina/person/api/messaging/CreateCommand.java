@@ -2,7 +2,7 @@ package ua.polina.person.api.messaging;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import ua.polina.main_service.PersonDto;
+import ua.polina.main_service.dto.PersonDto;
 import ua.polina.message_api.command.Command;
 
 @Data
